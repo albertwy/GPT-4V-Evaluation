@@ -1,0 +1,10 @@
+[Image1] Hints: Object  Answer：roller skate
+[Image5] Hints: Activity  Answer：kite flying
+[Image6] Hints: Comic book character   Answer：Conan
+[Image7] Hints: Activity  Answer：Skiing
+[Image8] Hints: Landform  Answer：beach
+[Image9] Hints: Object, Machine  Answer：Washing Machine
+[Image10] Hints: Activity  Answer：golf
+[Image12] Hints: Weather  Answer：Snow
+[Image13] Hints: Animal, leader  Answer：Bee King
+[Image14] Hints: Profession  Answer：Magician
